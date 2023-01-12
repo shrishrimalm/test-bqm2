@@ -1,0 +1,1 @@
+project_id                    = "atyeti-gcp-training"
